@@ -1,9 +1,13 @@
 _repo: Nordenskioldin-matkat-ja-retket-napamerilla-Nuorisolle-kerrottuina_50333
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Erkko, Elias
     gutenberg_agent_id: '45820'
     url: http://www.gutenberg.org/2009/agents/45820
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hertzberg, Rafaël
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '9351'
     url: http://www.gutenberg.org/2009/agents/9351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50333#Nordenskioldin-matkat-ja-retket-napamerilla-Nuorisolle-kerrottuina
 gutenberg_issued: '2015-10-28'
 gutenberg_type: Text
 identifiers:
